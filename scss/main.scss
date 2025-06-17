@@ -75,7 +75,6 @@ header{
             }
 
         }
-        // Hamburger
         .hamburger{
             display: none;
             z-index: 3;
@@ -182,7 +181,6 @@ main{
         }
         .title{
             @extend %flex;
-            // flex-direction: row;
             width: 100%;
             margin: 10px auto 40px auto;
             justify-content: space-between;
@@ -373,8 +371,6 @@ footer{
             div{
                 width: 110vw;
                 padding: 10px;
-                // background-color: rgb(65, 55, 55);
-                // left: 0;
                 h2{
                     font-size: 38px;
                     margin: 40px 0 20px 0;
