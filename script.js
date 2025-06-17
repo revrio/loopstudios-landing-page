@@ -1,14 +1,4 @@
-// const navBar = () =>{
-//     const hamburger = document.querySelector('header nav .hamburger');
-//     const list_items = document.querySelector('header nav ul');
-
-//     hamburger.addEventListener(
-//         'click', function(){
-//             console.log('working')
-//         }
-//     )
-// }
-// navBar()
+// navbar
 const navBar = () =>{
     const hamburger = document.querySelector('header nav .hamburger')
     const navUL = document.querySelector('header nav ul')
